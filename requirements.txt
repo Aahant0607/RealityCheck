@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+torchaudio
+librosa
+opencv-python-headless
+Pillow
+scikit-learn
+moviepy
+ffmpeg-python
