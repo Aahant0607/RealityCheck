@@ -101,24 +101,8 @@ realitycheck/
 ├── video_detector.py           # Frame sampling and video analysis
 ├── requirements.txt
 └── README.md
+
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-See the [LICENSE](LICENSE) file for more details.
-
----
-
-## 🙏 Acknowledgments
-
-* Hugging Face for providing open-access models
-* Streamlit for enabling rapid UI development
-* OpenCV, PyTorch, and the OSS ecosystem for their powerful tools
-
----
 
 ## 🚀 Future Improvements
 
@@ -126,5 +110,24 @@ See the [LICENSE](LICENSE) file for more details.
 * Expand video analysis to support live stream and real-time feeds
 * Add explanation features (e.g., Grad-CAM for images, attention maps for text)
 * Build API endpoints for integration with third-party tools
+
+---
+
+Certainly! Here's a **professional and concise "🤝 Collaboration"** section you can include in your README:
+
+---
+
+## 🤝 Collaboration
+
+We welcome contributions from researchers, developers, and domain experts passionate about AI safety and media integrity. Whether it's improving model performance, enhancing UI/UX, or integrating new detection techniques — your expertise can help evolve RealityCheck into a powerful open-source tool.
+
+Feel free to fork the repo, open issues, or submit pull requests!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for more details.
 
 ---
